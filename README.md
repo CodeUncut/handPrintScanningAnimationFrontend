@@ -1,0 +1,2 @@
+# handPrintScanningAnimationFrontend
+handPrintScanningAnimation with html and css
